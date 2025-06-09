@@ -1,1 +1,6 @@
-body { margin: 0; font-family: system-ui, sans-serif; background: #000; color: #fff; }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body { margin: 0; font-family: system-ui, sans-serif; }
